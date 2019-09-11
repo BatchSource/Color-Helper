@@ -4,7 +4,7 @@
 2. Type the command `Set-ExecutionPolicy AllSigned`
 3. Set the default to be "`Yes`"
 
-4. Type the command `Set-ExecutionPolicy Unrestricted'
+4. Type the command `Set-ExecutionPolicy Unrestricted`
 5. Set the default to be "`Yes`"
 
 Once you have changed the execution policy, you can run the script.
