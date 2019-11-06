@@ -1,4 +1,4 @@
-# Color Helper
+# Color Helper (BETA v3.0)
 ## Before downloading this script, you must allow unsigned scripts in powershell.
 1. Run powershell as administrator.
 2. Type the command `Set-ExecutionPolicy AllSigned`
