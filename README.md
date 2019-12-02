@@ -6,5 +6,5 @@
 #### One click download:
 # [Download latest version](https://www.dropbox.com/s/qnwr9a5izvdnnz0/Colorblind%20Helper%20v2.1.1.exe?dl=1)
 ##### You can also download a version where you can have it in a still window!
-## [Download (locked to a window)](https://www.dropbox.com/s/crr4rbvi380ugvd/Colorblind%20Helper%20v2.1.1%20-%20Window.exe?dl=0)
+## [Download (locked to a window)](https://www.dropbox.com/s/crr4rbvi380ugvd/Colorblind%20Helper%20v2.1.1%20-%20Window.exe?dl=1)
 ----------------------------------------------------------
